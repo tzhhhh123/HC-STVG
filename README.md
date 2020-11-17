@@ -1,7 +1,7 @@
 # HC-STVG
 The HC-STVG Dataset
 ## The videos are available at https://pan.baidu.com/s/1t6-rCLwaTtn-HKoIUfYAQg
-key(提取码)：3viv
+key(提取码)：3viv     
 The duration of all videos is 20s.
 ## An example of the json file
 	{  
