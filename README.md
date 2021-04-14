@@ -1,6 +1,8 @@
 # HC-STVG
 ***We Update the HC-STVG2.0 Dataset, which is now used for the [PIC workshop](http://picdataset.com/challenge/task/hcvg/) in CVPR 2021.***
 
+We  have added data and cleaned the labels in HC-STVG to build the **HC-STVG2.0**.
+
 The HC-STVG Dataset. The duration of all videos is 20s.
 
 ## Introduction
@@ -14,6 +16,16 @@ Human-centric Spatio-Temporal Video Grounding(HC-STVG), which only focuses human
 HC-STVG 2.0
 
 [One Drive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/tzhhhh123_buaa_edu_cn/EgCK1QFhUypLuGMMq7unj_AB0RtzLCwPhUPXnENaJ0obew?e=ODd9S6) key <u> tzhhhh123</u>     
+
+[Baidu Pan](https://pan.baidu.com/s/1aSVuZzHJk5bWLXm7bfJ0Xw) key <u> tzhh</u>     
+
+We reorganized the video data.
+
+For new users, we divided all the videos into 10 separate packages and provided the corresponding video_part.json to represent the name of the video in each package.
+
+For those who have already downloaded the previous ZIP file, just download the additional video in Fix. zip (which contains a small portion of the data in question).
+
+Because part of the data has been cleaned again, the total number of videos contained in the end will be slightly less than the previous 16,685. Please don't worry, we will release the remaining data as soon as possible.
 
 ## Baseline method
 
