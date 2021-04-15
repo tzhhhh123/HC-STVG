@@ -6,11 +6,11 @@ from multiprocessing import Pool
 import random
 import json
 
-video_paths = glob.glob('')  # 填入自己对应视频的地址
-frame_save_dir = ''  # 对应抽帧输出目录
+video_paths = glob.glob('{video dir}')  # replace with the specific video dir
+frame_save_dir = '{output dir}'  # replace with the specific output dir
 print("total video:", len(video_paths))
-gap = 6  # 抽帧间隔
-num_process = 32  # 进程数量
+gap = 6  # the interval 
+num_process = 32  
 
 # import IPython
 # IPython.embed()

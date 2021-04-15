@@ -15,9 +15,9 @@ Human-centric Spatio-Temporal Video Grounding(HC-STVG), which only focuses human
 
 HC-STVG 2.0
 
-[One Drive](https://buaaeducn-my.sharepoint.com/:f:/g/personal/tzhhhh123_buaa_edu_cn/EgCK1QFhUypLuGMMq7unj_AB0RtzLCwPhUPXnENaJ0obew?e=ODd9S6) key <u> tzhhhh123</u>     
+[One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u>     （updated）
 
-[Baidu Pan](https://pan.baidu.com/s/1aSVuZzHJk5bWLXm7bfJ0Xw) key <u> tzhh</u>     
+[Baidu Pan](https://pan.baidu.com/s/1aSVuZzHJk5bWLXm7bfJ0Xw) key <u> tzhh</u>     （updated）
 
 We reorganized the video data.
 
