@@ -23,7 +23,7 @@ We reorganized the video data.
 
 For new users, we divided all the videos into 10 separate packages and provided the corresponding video_part.json to represent the name of the video in each package.
 
-For those who have already downloaded the previous ZIP file, just download the additional video in Fix. zip (which contains a small portion of the data in question).
+For those who have already downloaded the previous ZIP file, just download the additional video in Fix. zip (which contains a small portion of the data in question). [The Fix.zip (One Drive)](https://intxyz-my.sharepoint.com/:u:/g/personal/zongheng_picdataset_com/EUaL23x9HahDhthYHfWz6FoBND5JwwIBx4_eITyC8hIfPg?e=WOhGu9)  key <u> tzhhhh123</u>.
 
 Because part of the data has been cleaned again, the total number of videos contained in the end will be slightly less than the previous 16,685. Please don't worry, we will release the remaining data as soon as possible.
 
