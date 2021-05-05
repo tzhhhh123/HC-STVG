@@ -11,6 +11,11 @@ Human-centric Spatio-Temporal Video Grounding(HC-STVG), which only focuses human
 
 ![](task_hcvg.jpg)
 
+## The annotations are available
+annotations of train and val set.
+querys of the test set.
+[One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u>     （updated）
+
 ## The videos are available
 
 HC-STVG 2.0
