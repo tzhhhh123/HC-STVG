@@ -3,6 +3,8 @@
 
 We  have added data and cleaned the labels in HC-STVG to build the **HC-STVG2.0**.
 
+While the original database contained 5660 videos, the new database has been re-annotated and modified and now contains 16,000 + videos for this challenge.
+
 The HC-STVG Dataset. The duration of all videos is 20s.
 
 ## Introduction
