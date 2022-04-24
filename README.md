@@ -31,7 +31,7 @@ HC-STVG 2.0
 
 [One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u>     （updated）
 
-[Baidu Pan](https://pan.baidu.com/s/1aSVuZzHJk5bWLXm7bfJ0Xw) key <u> tzhh</u>     （updated）
+[Baidu Pan](https://pan.baidu.com/s/1LDzXLJeOwi6VlIEHnU1CvQ) key <u> tzhh</u>     （updated）
 
 We divided all the videos into 10 separate packages and provided the corresponding video_part.json to represent the name of the video in each package.
 
