@@ -1,5 +1,7 @@
 # HC-STVG
-***We Update the HC-STVG2.0 Dataset, which is now used for the [PIC workshop](http://picdataset.com/challenge/task/hcvg/) in CVPR 2021.***
+### Updated DATA are coming soon.
+
+***We are preparing the DATA based on the DATA of the PIC 3.0 challenge, where we conduct a refinement and extension. The DATA is used for the [PIC workshop](http://picdataset.com/challenge/task/hcvg/) in ACM MM 2022.***
 
 We  have added data and cleaned the labels in HC-STVG to build the **HC-STVG2.0**.
 
@@ -21,7 +23,6 @@ annotations of train and val set.
 
 querys of the test set.
 
-
 [One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u>     
 
 We provide the annotations for the HC-STVG v1 with 5660 videos in total [One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/EgIzBzuHYPtItBIqIq5hNrsBBE9cnhJDWjXuorxXMhMZGQ?e=qvsBjE)  （updated）
@@ -29,9 +30,9 @@ We provide the annotations for the HC-STVG v1 with 5660 videos in total [One Dri
 
 HC-STVG 2.0
 
-[One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u>     （updated）
+[One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u> 
 
-[Baidu Pan](https://pan.baidu.com/s/1LDzXLJeOwi6VlIEHnU1CvQ) key <u> tzhh</u>     （updated）
+[Baidu Pan](https://pan.baidu.com/s/1_HWcHR3_XRiRhu1DmSD9-Q?pwd=hcvg) 
 
 We divided all the videos into 10 separate packages and provided the corresponding video_part.json to represent the name of the video in each package.
 
