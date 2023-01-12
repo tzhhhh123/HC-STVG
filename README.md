@@ -1,5 +1,4 @@
 # HC-STVG
-### Updated DATA are coming soon.
 
 ***We are preparing the DATA based on the DATA of the PIC 3.0 challenge, where we conduct a refinement and extension. The DATA is used for the [PIC workshop](http://picdataset.com/challenge/task/hcvg/) in ACM MM 2022.***
 
