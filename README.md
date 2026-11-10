@@ -16,25 +16,28 @@ Human-centric Spatio-Temporal Video Grounding(HC-STVG), which only focuses human
 
 ## The annotations are available
 
-
 annotations of train and val set.
 querys of the test set.
 
-We manually re-annotated the noisy data, and the cleaned data is in the anno_v2 directory.
-[One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u>     
+We manually re-annotated the noisy data, and the cleaned data was originally provided in the anno_v2 directory.
 
-We provide the annotations and videos for the HC-STVG v1 with 5660 videos in total [One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/EgIzBzuHYPtItBIqIq5hNrsBBE9cnhJDWjXuorxXMhMZGQ?e=qvsBjE)  （updated）
+[Baidu Pan](https://pan.baidu.com/s/1myLcXN9wOs5eEdRQU4fmWw?pwd=umhs) extraction code: **umhs**
+
+The current v2 share includes HCVG_train.json; the cleaned anno_v2 directory and separate validation/test annotations are not included.
+
+We provide the annotations and videos for the HC-STVG v1 with 5660 videos in total [Baidu Pan](https://pan.baidu.com/s/1zTvaN293vbpScb02hp0jjQ?pwd=sv6x) extraction code: **sv6x** | [Google Drive](https://drive.google.com/file/d/1m5NhtC0JSw3p-4QJmLMcmxQvAL0NcRaM/view?usp=drive_link) （updated）
+
 ## The videos are available
 
 HC-STVG 2.0
 
-[One Drive](https://intxyz-my.sharepoint.com/:f:/g/personal/zongheng_picdataset_com/ErqA01jikPZKnudZe6-Za9MBe17XXAxJr9ODn65Z2qGKkw?e=7vKw1U) key <u> tzhhhh123</u> 
+[Baidu Pan](https://pan.baidu.com/s/1myLcXN9wOs5eEdRQU4fmWw?pwd=umhs) extraction code: **umhs**
 
-[Baidu Pan](https://pan.baidu.com/s/1_HWcHR3_XRiRhu1DmSD9-Q?pwd=hcvg) 
+We divided all the videos into 10 separate packages and provided the corresponding video_parts.json to represent the name of the video in each package.
 
-We divided all the videos into 10 separate packages and provided the corresponding video_part.json to represent the name of the video in each package.
+Note: The current share provides only parts 0.zip–8.zip (9 packages). 9.zip is currently unavailable, so some annotated videos are not included in the available packages.
 
-Because part of the data has been cleaned again, the total number of videos contained in the end will be slightly less than the previous 16,685. 
+Because part of the data has been cleaned again, the total number of videos contained in the end will be slightly less than the previous 16,685.
 
 ## Baseline method
 
@@ -53,15 +56,16 @@ https://github.com/TheShadow29/awesome-grounding
 https://arxiv.org/abs/2011.05049
 
 ## An example of the json file
-	{  
-	'55_vfjywN5CN0Y.mp4':{  
-	'bbox': [[x,y,w,h], ], # the bboxes of the target person,   
-	'st_time': 8.914734192388288, # ground truth start time  
-	'ed_time': 17.544734192388397, # ground truth end time  
-	'img_num': 600, # img_num = fps*20, we use ffmpeg to extract the images  
-	 'caption': 'The woman in red clothes turns in a circle.', #caption about the target person  
-	 'width': 640, #image size  
-	 'height': 360, #image size  
-	 'st_frame': 268} # the first frame index in the bboxes.(start with 1)  
-	 ......  
-	}  
+
+    {
+    '55_vfjywN5CN0Y.mp4':{
+    'bbox': [[x,y,w,h], ], # the bboxes of the target person,
+    'st_time': 8.914734192388288, # ground truth start time
+    'ed_time': 17.544734192388397, # ground truth end time
+    'img_num': 600, # img_num = fps*20, we use ffmpeg to extract the images
+     'caption': 'The woman in red clothes turns in a circle.', #caption about the target person
+     'width': 640, #image size
+     'height': 360, #image size
+     'st_frame': 268} # the first frame index in the bboxes.(start with 1)
+     ......
+    }
